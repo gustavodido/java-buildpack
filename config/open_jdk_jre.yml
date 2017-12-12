@@ -28,7 +28,7 @@ memory_calculator:
   class_count: 
   stack_threads: 250
   memory_heuristics:
-    heap: 90
-    metaspace: 5
-    stack: 2
-    native: 3
+    heap: 50
+    metaspace: 20
+    stack: 20
+    native: 10
